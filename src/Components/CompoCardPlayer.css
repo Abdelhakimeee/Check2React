@@ -1,0 +1,38 @@
+.title {
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+}
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+    justify-content: space-around;
+    margin: 90px  100px 200px 100px;
+    color: #565353;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 'Arial';
+    font-weight: 800;
+    font-size: 17px;
+
+
+
+    
+
+
+
+}
+.card {
+    background-color: gainsboro;
+    border-radius: 5px;
+    box-shadow: 9px 4px 8px rgba(0, 0, 0, 0.4);
+    width: 200px;
+    padding-top: 20px;
+    
+
+}
+.card img {
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px rgb(145, 143, 143);
+}
